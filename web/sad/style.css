@@ -1,0 +1,319 @@
+*{
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+        
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: large;
+}
+header{
+    margin-bottom: 10px;
+}
+header .imin{
+
+    display: inline;
+
+}
+
+header div img{
+
+    height: 70px;
+    width: 70px;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+header div input{
+    margin-left: 40px;
+    border-radius: 40px;
+    padding: 20px;
+
+}
+header nav{
+    padding-left: 175px;
+    padding-bottom: 10px;
+    display: inline;
+   
+    
+
+}
+
+header nav a{
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.button5{margin-left: 50px;
+    background-color: rgb(53, 46, 46);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.button5 a{
+    
+    
+    background-color: rgb(53, 46, 46);
+    color: #FEE;
+    
+    
+    text-decoration: none;
+}
+
+.s2{
+    position: relative;
+}
+.s2 img{
+    background-image: none;
+    width: 400px;
+    margin-top: 10px;
+    max-width: 200%;
+    height: auto;
+    
+}
+
+
+.ban{
+    position: absolute;
+    top:25%;
+   color :white;
+    padding-left: 60px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 12px;
+}
+.ban .t{
+   
+font-size: 10px;
+text-transform: uppercase;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 5px;
+margin-left: 50px;
+}
+
+
+.s2{
+    margin-left: 40%;
+
+}
+
+.bom{
+    display: block;
+    margin-left: 160px;
+
+}
+
+
+
+
+
+.s3 h2{
+
+    text-align: center;
+    margin-top: 40px;   
+}
+.s3 .p1,.p2{
+    display: inline-block;
+
+
+}
+
+.lt{
+
+    position: relative;
+    left: 340px;
+    top: 100px;
+}
+.gt{
+    position: relative;
+    left: 1080px;
+    bottom: 150px;
+}
+
+.s3 .p1{
+    position: relative;
+    left: 400px;
+    text-align: center;
+}
+.s3 .p2{
+    position: relative;
+    left: 500px;
+    text-align: center;
+}
+
+.s4 {
+    margin: 10px;
+}
+
+
+.s4 .f{
+    position: relative;
+    left: 700px;
+    bottom: 20px;
+}
+.s4 .in2{
+    border-radius: 10px;
+    padding: 10px 10px 10px 40px;
+   }
+
+.s4 .bt{
+    left: 20px;
+    position: relative;
+   }
+
+
+.s5 .products{
+    position: relative;
+    left: 100px;
+}
+.s5 .products .p1
+{
+    display: inline-block;
+   
+}
+
+.s5 .products .p2
+{
+    display: inline-block;
+    position: relative;
+    right:20px;
+    
+}
+
+.s5 .products .p3
+{
+    display: inline-block;
+}
+
+.s5 .products .p4
+{
+    display: inline-block;
+}
+
+.s5 .products .p5
+{
+    display: inline-block;
+}
+
+.s5 .products .p6
+{
+    display: inline-block;
+}
+.s5 .products .p7
+{
+    display: inline-block;
+  
+}
+
+.s5 .products .p1{
+
+    right: 40px;
+}
+
+.s5 .products .gp2{
+
+    display: flex
+    ;
+        position: relative;
+        left: 300px;
+        text-align: center;
+        top: 100px;
+} 
+.s5 .products .gp{
+
+    display: flex
+    ;
+        position: relative;
+        left: 300px;
+        text-align: center;
+        bottom: 100px;
+        gap: 150px;
+} 
+
+
+.s5  h2{
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+
+
+footer {
+    display: flex; /* Use flexbox for simple layout */
+    flex-wrap: wrap; /* Allows items to wrap to the next line if necessary */
+    gap: 20px; /* Adds space between the items */
+    padding: 30px;
+    background-color: #333;
+    color: #fff;
+}
+
+footer img {
+    margin-bottom: 10px;
+}
+
+footer p, footer ul {
+    margin: 10px ;
+}
+
+footer ul {
+    list-style: none; 
+}
+
+footer ul li a {
+    text-decoration: none; 
+    color: #ddd; 
+    
+}
+
+footer ul li a:hover {
+    color: #eb0f1a; 
+}
+
+footer .a1,.a2,.a3,.a4 p
+{
+    color: #eb0f1a;
+}
+
+.s5 .s{
+    background-image: none;
+   width: 700px;
+   height: 300px;
+    position: relative;
+    left: 400px;
+    margin-bottom: 20px;
+}
+
+
+.ab{
+    position: relative;
+    top:-200px;
+   
+}
+.ab .about{
+   
+font-size: 20px;
+
+font-weight: bold;
+position: relative;
+left:600px;
+color: red;
+}
